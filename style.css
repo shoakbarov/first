@@ -1,0 +1,83 @@
+h1{
+    background-color: aqua;
+    border-radius: 10px;
+    border: 2px solid red;
+    color: black;
+        text-align: center;
+}
+b{ color: black;
+    background-color: yellow;
+}
+h2{
+    color: green;
+
+}
+.zuba1{
+    background-color: azure;
+}
+.zuba2{
+    background-color: white;
+}
+h3{
+    color: green;
+
+}
+form{
+    color: green;
+}
+button{
+    background-color: cornflowerblue;
+}
+.Day{
+    background-color: green;
+}
+.red{
+    background-color: blue;
+    width: 1000px;
+}
+td{
+    background-color: red;
+}
+.der{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+
+.ter{
+    width: 1000px;
+}
+button{
+    width: 200px;
+    height: 25px;
+}
+.gr{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.rbut{
+    background-color: black;
+    text-align: center;
+}
+strong{
+    color: red;
+}
+.sed{
+    background-color: yellow;
+    text-align: center;
+}
+.dew{
+    background-color: yellow;
+    text-align: center;
+}
+.ser{
+    color: green;
+}
+.hgf{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
